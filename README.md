@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @SirGanB
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning dart && flutter
+- 💞️ I’m looking to collaborate on any thing i can help
+- 📫 How to reach me:
+  - instagram: https://www.instagram.com/sir_ganb/
+  - discord: Sir_GanB#5994
+  - steam: https://steamcommunity.com/id/_Shh/

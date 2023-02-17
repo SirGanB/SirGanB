@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning dart && flutter
 - 💞️ I’m looking to collaborate on any thing i can help
 - 📫 How to reach me:
-  - instagram: https://www.instagram.com/sir_ganb/
   - discord: Sir_GanB#5994
-  - steam: https://steamcommunity.com/id/_Shh/
+  - instagram: https://www.instagram.com/sir_ganb/
+  - linkedin: https://www.linkedin.com/in/gustavo-amorim-novaes-bueno-821b61237/
+  - steam: https://steamcommunity.com/id/_ganb/

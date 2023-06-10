@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @SirGanB
+- 👋 Hi, I’m Gustavo Amorim Novaes
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning dart && flutter
+- 📝 I already studied about C# | Unity | Vue.js | Dart & Flutter
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything i can help
+- 👷‍♂️ Currently working with C# and Unity
 - 📫 How to reach me:
   - [discord](https://discord.gg/jGScV5u)
   - [instagram](https://www.instagram.com/sir_ganb/)

@@ -3,7 +3,7 @@
 - 📝 I already studied about C# | Unity | Vue.js | Dart & Flutter
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything i can help
-- 👷‍♂️ Currently working with C# and Unity
+- 👷‍♂️ Currently working with Flutter
 - 📫 How to reach me:
   - [Discord](https://discord.gg/jGScV5u)
   - [Instagram](https://www.instagram.com/sir_ganb/)

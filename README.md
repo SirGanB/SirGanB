@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything i can help
 - 👷‍♂️ Currently working with Flutter | C++ | C# & Action Script
 - 📫 How to reach me:
-  - [Discord](https://discord.gg/jGScV5u)
+  - [Discord](https://discord.gg/ejNgyTfyhs)
   - [Instagram](https://www.instagram.com/sir_ganb/)
   - [Linkedin](https://www.linkedin.com/in/gustavo-amorim-novaes-bueno-821b61237/)
-  - [Steam](https://steamcommunity.com/id/sir_ganb/)
+  - [Steam]([https://steamcommunity.com/id/sir_ganb/](https://steamcommunity.com/id/sir_ganb/)https://steamcommunity.com/id/sir_ganb/)

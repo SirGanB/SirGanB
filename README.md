@@ -8,4 +8,4 @@
   - [Discord](https://discord.gg/ejNgyTfyhs)
   - [Instagram](https://www.instagram.com/sir_ganb/)
   - [Linkedin](https://www.linkedin.com/in/gustavo-amorim-novaes-bueno-821b61237/)
-  - [Steam]([https://steamcommunity.com/id/sir_ganb/](https://steamcommunity.com/id/sir_ganb/)https://steamcommunity.com/id/sir_ganb/)
+  - [Steam](https://steamcommunity.com/id/sir_ganb/](https://steamcommunity.com/id/sir_ganb/)https://steamcommunity.com/id/sir_ganb/)

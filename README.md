@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate on anything i can help
 - 👷‍♂️ Currently working with Flutter & C#
 - 📫 How to reach me:
-  - [Discord](https://discord.gg/ejNgyTfyhs)
+  - [Discord](https://discord.gg/vYNA8xFWZa)
   - [Instagram](https://www.instagram.com/sir_ganb/)
   - [Linkedin](https://www.linkedin.com/in/gustavo-amorim-novaes-bueno-821b61237/)
